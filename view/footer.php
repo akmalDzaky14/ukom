@@ -18,8 +18,8 @@
             <div class="col">
                 <!-- Content -->
                 <br>
-                <h5 class="text-uppercase" style="text-align: center">F.E.R.I - University of Maribor</h5>
-                <p style="text-align: center">Web programming - David Moniz</p>
+                <h5 class="text-uppercase" style="text-align: center"></h5>
+                <p style="text-align: center"></p>
             </div>
             <!-- Grid column -->
         </div>

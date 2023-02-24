@@ -6,7 +6,7 @@
     public static function getInstance() {
       if (!isset(self::$instance)) {
        
-        self::$instance = mysqli_connect("localhost", "root", "root", "assignment2");
+        self::$instance = mysqli_connect("localhost", "root", "root", "ukom");
       }
       return self::$instance;
     }
